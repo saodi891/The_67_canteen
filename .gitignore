@@ -1,0 +1,48 @@
+.gradle/
+build/
+run/
+out/
+tmp/
+art/
+output/
+*.iml
+.idea/
+.eclipse/
+eclipse/
+bin/
+*.class
+*.log
+
+# Art and media resources
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tif
+*.tiff
+*.ogg
+*.wav
+*.mp3
+
+# Visual models and animations
+src/main/resources/assets/**/animations/
+src/main/resources/assets/**/geo/
+src/main/resources/assets/**/models/
+src/main/resources/assets/**/blockstates/
+src/main/resources/assets/**/textures/
+
+# Built structure artwork/data
+src/main/resources/data/the67canteen/structures/
+
+# Documentation, except the project overview and license
+docs/
+doc/
+*.pdf
+*.doc
+*.docx
+*.odt
+*.md
+!README.md
+!LICENSE

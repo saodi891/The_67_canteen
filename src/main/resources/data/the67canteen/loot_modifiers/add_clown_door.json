@@ -1,0 +1,9 @@
+{
+  "type": "the67canteen:add_clown_door",
+  "conditions": [
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.05
+    }
+  ]
+}

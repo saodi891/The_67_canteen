@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com._67canteen.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "the67canteen.refmap.json",
+  "mixins": [],
+  "client": [
+    "ExampleClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

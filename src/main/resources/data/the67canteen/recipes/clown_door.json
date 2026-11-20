@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FDF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "tag": "c:foods"
+    },
+    "D": {
+      "tag": "minecraft:doors"
+    }
+  },
+  "result": {
+    "item": "the67canteen:clown_door",
+    "count": 1
+  }
+}

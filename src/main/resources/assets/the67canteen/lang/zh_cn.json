@@ -1,0 +1,15 @@
+{
+  "block.the67canteen.curry_plate": "一盘咖喱",
+  "item.the67canteen.curry_plate": "一盘咖喱",
+  "item.the67canteen.clown_door": "小丑的门",
+  "item.the67canteen.guard_dog_spawn_egg": "警狗刷怪蛋",
+  "item.the67canteen.67_clown_spawn_egg": "67小丑刷怪蛋",
+  "effect.the67canteen.canteen_buff": "67餐厅",
+  "entity.the67canteen.guard_dog": "警狗",
+  "entity.the67canteen.67_clown": "67小丑",
+  "death.attack.internal_organs": "%1$s 的内脏变成了外脏，凶手是67小丑",
+  "itemGroup.the67canteen.canteen": "67餐厅",
+  "item.the67canteen.canteen_tab_icon": "67餐厅图标",
+  "message.the67canteen.clown_door.no_space": "空间不足，无法生成67餐厅",
+  "message.the67canteen.clown_door.structure_missing": "找不到67餐厅结构文件。"
+}

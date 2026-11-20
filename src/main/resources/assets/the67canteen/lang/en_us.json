@@ -1,0 +1,15 @@
+{
+  "block.the67canteen.curry_plate": "A Plate of Curry",
+  "item.the67canteen.curry_plate": "A Plate of Curry",
+  "item.the67canteen.clown_door": "Clown's Door",
+  "item.the67canteen.guard_dog_spawn_egg": "Guard Dog Spawn Egg",
+  "item.the67canteen.67_clown_spawn_egg": "67 Clown Spawn Egg",
+  "effect.the67canteen.canteen_buff": "67 Canteen",
+  "entity.the67canteen.guard_dog": "Guard Dog",
+  "entity.the67canteen.67_clown": "67 Clown",
+  "death.attack.internal_organs": "%1$s's insides became outsides; the killer was 67 Clown",
+  "itemGroup.the67canteen.canteen": "67 Canteen",
+  "item.the67canteen.canteen_tab_icon": "67 Canteen Icon",
+  "message.the67canteen.clown_door.no_space": "There is not enough room to build the 67 Canteen",
+  "message.the67canteen.clown_door.structure_missing": "The 67 Canteen structure file could not be found."
+}
